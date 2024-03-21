@@ -1,4 +1,4 @@
 
 API Documentation :https://restful-booker.herokuapp.com/
 
-Accesslink: https://onedrive.live.com/?id=5D9C0856F0997D46%21s1e663ee74ded4e30a07749417f3460e9&cid=5D9C0856F0997D46
+Accesslink: https://1drv.ms/f/c/5d9c0856f0997d46/Euc-Zh7tTTBOoHdJQX80YOkBOZKPL46iOyTGzzPYLq8qoQ?e=R31RJC
